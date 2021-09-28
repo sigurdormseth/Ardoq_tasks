@@ -2,6 +2,7 @@ package Task1;
 
 class IntegerAlgorithm{
     public static void main(String[] args) {
+        //array
         int[] arr = {1,7,5,3,8,9,21,34,1,2,3,4,7,3,11,2,6,8,7};
         IntegerAlgorithm test = new IntegerAlgorithm();
         System.out.println(test.highestProduct(arr));
